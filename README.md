@@ -80,8 +80,12 @@ This extension provides a dedicated interface in **Forge Neo** to interact with 
    ```sh
    git clone [https://github.com/JuanBerta/sd-webui-ollama-vl.git](https://github.com/JuanBerta/sd-webui-ollama-vl.git)
    ```
-3. Restart your Forge Neo WebUI.
-4. The extension will appear as a new accordion labeled Ollama VL Prompt.
+3. Install requirements:
+4. ``` sh
+   pip install -r requirements.txt
+   ```
+5. Restart your Forge Neo WebUI.
+6. The extension will appear as a new accordion labeled Ollama VL Prompt.
 
 ## Usage
 * **Locate the Module**: Open the Ollama VL Prompt accordion in the txt2img or img2img tab.
