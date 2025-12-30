@@ -47,7 +47,7 @@
 
 This extension provides a dedicated interface in **Forge Neo** to interact with **Ollama** vision models. It allows users to interrogate images locally and instantly transfer the generated descriptions to the main prompt fields.
 
-Key goals:
+### Key goals:
 
 * **Direct WebUI Integration**: No need to switch between apps; interrogate images directly in txt2img or img2img.
 * **Prompt Injection**: One-click transfer of generated text to the main Stable Diffusion prompt box.
@@ -101,13 +101,13 @@ Key goals:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap
-[x] Automatic Ollama model detection
-[x] Persistent custom settings tab
-[x] One-click "Send to Main Prompt" functionality
-[x] JSON-based preset system prompts
-[x] UI Synchronization button
-[ ] Batch processing for multiple images
-[ ] Support for tag-based interrogation (Danbooru style)
+* [x] Automatic Ollama model detection
+* [x] Persistent custom settings tab
+* [x] One-click "Send to Main Prompt" functionality
+* [x] JSON-based preset system prompts
+* [x] UI Synchronization button
+* [ ] Batch processing for multiple images
+* [ ] Support for tag-based interrogation (Danbooru style)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
