@@ -78,7 +78,7 @@ This extension provides a dedicated interface in **Forge Neo** to interact with 
 1. Open your Forge Neo `extensions` folder.
 2. Clone this repository:
    ```sh
-   git clone [https://github.com/JuanBerta/sd-webui-ollama-vl.git](https://github.com/JuanBerta/sd-webui-ollama-vl.git)
+   git clone https://github.com/JuanBerta/sd-webui-ollama-vl.git
    ```
 3. Install requirements:
 4. ``` sh
